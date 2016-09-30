@@ -29,6 +29,8 @@ This repository is my "reading list", a collection of interesting papers, course
 
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) - "Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously".
 
+* [Wide & Deep Learning for Recommender Systems](http://arxiv.org/abs/1606.07792) - "In this paper, we present Wide & Deep learning - jointly trained wide linear models and deep neural networks - to combine the benefits of memorization and generalization for recommender systems".
+
 <a name="sdc" />
 ### Self-Driving Cars
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) - "We trained a convolutional neural network (CNN) to map raw pixels from a single front-facing camera directly to steering commands".
