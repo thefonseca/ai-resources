@@ -31,6 +31,8 @@ This repository is my "reading list", a collection of interesting papers, course
 
 * [Wide & Deep Learning for Recommender Systems](http://arxiv.org/abs/1606.07792) - "In this paper, we present Wide & Deep learning - jointly trained wide linear models and deep neural networks - to combine the benefits of memorization and generalization for recommender systems".
 
+* [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-) (2012) - "We trained a large, deep convolutional neural network to classify the 1.3 million high-resolution images in the LSVRC-2010 ImageNet training set into the 1000 different classes".
+
 <a name="sdc" />
 ### Self-Driving Cars
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) - "We trained a convolutional neural network (CNN) to map raw pixels from a single front-facing camera directly to steering commands".
