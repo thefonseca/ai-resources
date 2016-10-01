@@ -25,6 +25,9 @@ This repository is my "reading list", a collection of interesting papers, course
 
 <a name="deep-learning" />
 ### Deep Learning
+
+* [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) (2016) - "We introduce a guide to help deep learning practitioners understand and manipulate convolutional neural network architectures.".
+
 * [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](https://arxiv.org/abs/1310.1531) - "We evaluate whether features extracted from the activation of a deep convolutional network trained in a fully supervised fashion on a large, fixed set of object recognition tasks can be re- purposed to novel generic tasks".
 
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) - "Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously".
