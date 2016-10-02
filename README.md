@@ -45,5 +45,6 @@ This repository is my "reading list", a collection of interesting papers, course
 * [Learning a Driving Simulator](https://arxiv.org/abs/1608.01230) - "Comma.ai's approach to Artificial Intelligence for self-driving cars is based on an agent that learns to clone driver behaviors and plans maneuvers by simulating future events in the road. This paper illustrates one of our research approaches for driving simulation".
 
 <a name="blogs" />
+## Websites & Blog Posts
 ### Computer Vision
 * [Who is the best in dataset X?](http://rodrigob.github.io/are_we_there_yet/build/) - A collection of the best performing classification methods in datasets like MNIST and CIFAR-10.
