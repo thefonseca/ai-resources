@@ -9,7 +9,7 @@ This repository is my "reading list", a collection of interesting papers, course
   - [Computational Cognitive Science](#cognitive-science)
   - [Deep Learning](#deep-learning)
   - [Self-Driving Cars](#sdc)
-- [Blog posts](#blogs)
+- [Websites & Blog posts](#blogs)
 - [Videos](#video)
 
 <!-- /MarkdownTOC -->
@@ -26,7 +26,9 @@ This repository is my "reading list", a collection of interesting papers, course
 <a name="deep-learning" />
 ### Deep Learning
 
-* [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) (2016) - "We introduce a guide to help deep learning practitioners understand and manipulate convolutional neural network architectures.".
+* [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) (2016) - "We introduce a guide to help deep learning practitioners understand and manipulate convolutional neural network architectures".
+
+* [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis) (2015) - "Progress in the field will be further accelerated by the development of better tools for visualizing and interpreting neural nets. We introduce two such tools here. The first is a tool that visualizes the activations produced on each layer of a trained convnet as it processes an image or video. (...) The second tool enables visualizing features at each layer of a DNN via regularized optimization in image space".
 
 * [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](https://arxiv.org/abs/1310.1531) - "We evaluate whether features extracted from the activation of a deep convolutional network trained in a fully supervised fashion on a large, fixed set of object recognition tasks can be re- purposed to novel generic tasks".
 
@@ -41,3 +43,7 @@ This repository is my "reading list", a collection of interesting papers, course
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) - "We trained a convolutional neural network (CNN) to map raw pixels from a single front-facing camera directly to steering commands".
 
 * [Learning a Driving Simulator](https://arxiv.org/abs/1608.01230) - "Comma.ai's approach to Artificial Intelligence for self-driving cars is based on an agent that learns to clone driver behaviors and plans maneuvers by simulating future events in the road. This paper illustrates one of our research approaches for driving simulation".
+
+<a name="blogs" />
+### Computer Vision
+* [Who is the best in dataset X?](http://rodrigob.github.io/are_we_there_yet/build/) - A collection of the best performing classification methods in datasets like MNIST and CIFAR-10.
