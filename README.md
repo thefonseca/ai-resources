@@ -11,7 +11,7 @@ This repository is my "reading list", a collection of interesting papers, course
   - [Deep Learning](#deep-learning)
   - [Self-Driving Cars](#sdc)
 - [Websites & Blog posts](#blogs)
-- [Videos](#video)
+- [Videos](#videos)
 
 <!-- /MarkdownTOC -->
 
@@ -20,7 +20,7 @@ This repository is my "reading list", a collection of interesting papers, course
 ## Papers
 <a name="cognitive-science" />
 ### Computational Cognitive Science
-* [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) -  One one my favorite papers. Discusses the elements of human cognitition that are still missing in current Deep Learning and Reinforcement Learning approaches.
+* [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) (2016) -  One one my favorite papers. Discusses the elements of human cognitition that are still missing in current Deep Learning and Reinforcement Learning approaches.
 
 * [Human-level concept learning through probabilistic program induction](http://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf) -  A different approach to learning concepts from few data, like humans do.
 
@@ -54,5 +54,13 @@ This repository is my "reading list", a collection of interesting papers, course
 ## Websites & Blog Posts
 * [Shakir's Machine Learning Blog](http://blog.shakirm.com) - Shakir is a senior research scientist at Google DeepMind in London.
 
+* [A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html) - A very nice, simple and mostly visual explanation of the universality theorem, by Michael Nielsen.
+
 ### Computer Vision
 * [Who is the best in dataset X?](http://rodrigob.github.io/are_we_there_yet/build/) - A collection of the best performing classification methods in datasets like MNIST and CIFAR-10.
+
+<a name="videos" />
+## Videos
+* [Bay Area Deep Learning School - Day 1](https://www.youtube.com/watch?v=eyovmAtoUx0) (2016) - Day 1 of Bay Area Deep Learning School featuring speakers Hugo Larochelle, Andrej Karpathy, Richard Socher, Sherry Moore, Ruslan Salakhutdinov and Andrew Ng. Detailed schedule is at http://www.bayareadlschool.org/schedule.
+
+* [Bay Area Deep Learning School - Day 2](https://www.youtube.com/watch?v=9dXiAecyJrY) (2016) - Day 2 of Bay Area Deep Learning School featuring speakers John Schulman, Pascal Lamblin, Adam Coates, Alex Wiltschko, Quoc Le and Yoshua Bengio. Detailed schedule is at http://www.bayareadlschool.org/schedule.
