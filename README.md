@@ -56,6 +56,8 @@ This repository is my "reading list", a collection of interesting papers, course
 
 * [A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html) - A very nice, simple and mostly visual explanation of the universality theorem, by Michael Nielsen.
 
+* [Building a Deep Learning (Dream) Machine](http://graphific.github.io/posts/building-a-deep-learning-dream-machine/) - Guidelines for building a machine system specifically tailored for Deep Learning (2016), by Roelof Pieters.
+
 ### Computer Vision
 * [Who is the best in dataset X?](http://rodrigob.github.io/are_we_there_yet/build/) - A collection of the best performing classification methods in datasets like MNIST and CIFAR-10.
 
