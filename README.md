@@ -48,7 +48,9 @@ This repository is my "reading list", a collection of interesting papers, course
 ### Self-Driving Cars
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) - "We trained a convolutional neural network (CNN) to map raw pixels from a single front-facing camera directly to steering commands".
 
-* [Learning a Driving Simulator](https://arxiv.org/abs/1608.01230) - "Comma.ai's approach to Artificial Intelligence for self-driving cars is based on an agent that learns to clone driver behaviors and plans maneuvers by simulating future events in the road. This paper illustrates one of our research approaches for driving simulation".
+* [Learning a Driving Simulator](https://arxiv.org/abs/1608.01230) (2016) - "Comma.ai's approach to Artificial Intelligence for self-driving cars is based on an agent that learns to clone driver behaviors and plans maneuvers by simulating future events in the road. This paper illustrates one of our research approaches for driving simulation".
+
+* [An Empirical Evaluation of Deep Learning on Highway Driving](https://arxiv.org/abs/1504.01716) (2015) - "In this paper, we presented a number of empirical evaluations of recent deep learning advances".
 
 <a name="blogs" />
 ## Websites & Blog Posts
