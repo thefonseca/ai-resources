@@ -26,8 +26,6 @@ This repository is my "reading list", a collection of interesting papers, course
 
 <a name="computer-vision" />
 ### Computer Vision
-* [Learning to Compose Neural Networks for Question Answering](https://arxiv.org/abs/1601.01705) (2016) - "We describe a question answering model that applies to both images and structured knowledge bases. The model uses natural language strings to automatically assemble neural networks from a collection of composable modules. Our approach, which we term a dynamic neural model network, achieves state-of-the-art results on benchmark datasets in both visual and structured domains".
-
 * [Learning What and Where to Draw](http://www.scottreed.info/files/nips2016.pdf) (2016) - "We propose a new model, the Generative Adversarial What-Where Network (GAWWN), that synthesizes images given instructions describing what content to draw in which location".
  
 * [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](https://arxiv.org/abs/1310.1531) - "We evaluate whether features extracted from the activation of a deep convolutional network trained in a fully supervised fashion on a large, fixed set of object recognition tasks can be repurposed to novel generic tasks".
@@ -39,6 +37,8 @@ This repository is my "reading list", a collection of interesting papers, course
 <a name="deep-learning" />
 ### Deep Learning
 * [One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065) (2016) - "Here, we demonstrate the ability of a memory-augmented neural network to rapidly assimilate new data, and leverage this data to make accurate predictions after only a few samples. We also introduce a new method for accessing an external memory that focuses on memory content, unlike previous methods that additionally use memory location-based focusing mechanisms".
+
+* [Learning to Compose Neural Networks for Question Answering](https://arxiv.org/abs/1601.01705) (2016) - "We describe a question answering model that applies to both images and structured knowledge bases. The model uses natural language strings to automatically assemble neural networks from a collection of composable modules. Our approach, which we term a dynamic neural model network, achieves state-of-the-art results on benchmark datasets in both visual and structured domains".
 
 * [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) (2016) - "We introduce a guide to help deep learning practitioners understand and manipulate convolutional neural network architectures".
 
