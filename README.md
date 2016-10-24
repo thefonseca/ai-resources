@@ -30,7 +30,9 @@ This repository is my "reading list", a collection of interesting papers, course
  
 * [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](https://arxiv.org/abs/1310.1531) - "We evaluate whether features extracted from the activation of a deep convolutional network trained in a fully supervised fashion on a large, fixed set of object recognition tasks can be repurposed to novel generic tasks".
 
-* [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) - "Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously".
+* [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) (2015) - "Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously".
+
+* [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) (2015) - "Here we introduce an artificial system based on a Deep Neural Network that creates artistic images of high perceptual quality. The system uses neural representations to separate and recombine content and style of arbitrary images, providing a neural algorithm for the creation of artistic images".
 
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-) (2012) - "We trained a large, deep convolutional neural network to classify the 1.3 million high-resolution images in the LSVRC-2010 ImageNet training set into the 1000 different classes".
 
