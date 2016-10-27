@@ -38,6 +38,8 @@ This repository is my "reading list", a collection of interesting papers, course
 
 <a name="deep-learning" />
 ### Deep Learning
+* [Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225) (2016) - "HWe show how the success of deep learning depends not only on mathematics but also on physics: although well-known mathematical theorems guarantee that neural networks can approximate arbitrary functions well, the class of functions of practical interest can be approximated through "cheap learning" with exponentially fewer parameters than generic ones, because they have simplifying properties tracing back to the laws of physics".
+
 * [One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065) (2016) - "Here, we demonstrate the ability of a memory-augmented neural network to rapidly assimilate new data, and leverage this data to make accurate predictions after only a few samples. We also introduce a new method for accessing an external memory that focuses on memory content, unlike previous methods that additionally use memory location-based focusing mechanisms".
 
 * [Learning to Compose Neural Networks for Question Answering](https://arxiv.org/abs/1601.01705) (2016) - "We describe a question answering model that applies to both images and structured knowledge bases. The model uses natural language strings to automatically assemble neural networks from a collection of composable modules. Our approach, which we term a dynamic neural model network, achieves state-of-the-art results on benchmark datasets in both visual and structured domains".
