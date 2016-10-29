@@ -52,9 +52,11 @@ This repository is my "reading list", a collection of interesting papers, course
 
 <a name="sdc" />
 ### Self-Driving Cars
-* [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) - "We trained a convolutional neural network (CNN) to map raw pixels from a single front-facing camera directly to steering commands".
+* [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) (2016) - "We trained a convolutional neural network (CNN) to map raw pixels from a single front-facing camera directly to steering commands".
 
 * [Learning a Driving Simulator](https://arxiv.org/abs/1608.01230) (2016) - "Comma.ai's approach to Artificial Intelligence for self-driving cars is based on an agent that learns to clone driver behaviors and plans maneuvers by simulating future events in the road. This paper illustrates one of our research approaches for driving simulation".
+
+* [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu) (2015) - "Today, there are two major paradigms for vision-based autonomous driving systems: mediated perception approaches that parse an entire scene to make a driving decision, and behavior reflex approaches that directly map an input image to a driving action by a regressor. In this paper, we propose a third paradigm: a direct perception approach to estimate the affordance for driving. We propose to map an input image to a small number of key perception indicators that directly relate to the affordance of a road/traffic state for driving".
 
 * [An Empirical Evaluation of Deep Learning on Highway Driving](https://arxiv.org/abs/1504.01716) (2015) - "In this paper, we presented a number of empirical evaluations of recent deep learning advances".
 
