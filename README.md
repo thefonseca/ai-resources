@@ -46,6 +46,8 @@ This repository is my "reading list", a collection of interesting papers, course
 
 * [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) (2016) - "We introduce a guide to help deep learning practitioners understand and manipulate convolutional neural network architectures".
 
+* [Action-Conditional Video Prediction using Deep Networks in Atari Games](https://sites.google.com/a/umich.edu/junhyuk-oh/action-conditional-video-prediction) (2015) - "Motivated by vision-based reinforcement learning (RL) problems, in particular Atari games from the recent benchmark Aracade Learning Environment (ALE), we consider spatio-temporal prediction problems where future (image-)frames are dependent on control variables or actions as well as previous frames".
+
 * [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis) (2015) - "Progress in the field will be further accelerated by the development of better tools for visualizing and interpreting neural nets. We introduce two such tools here. The first is a tool that visualizes the activations produced on each layer of a trained convnet as it processes an image or video. (...) The second tool enables visualizing features at each layer of a DNN via regularized optimization in image space".
 
 * [Wide & Deep Learning for Recommender Systems](http://arxiv.org/abs/1606.07792) - "In this paper, we present Wide & Deep learning - jointly trained wide linear models and deep neural networks - to combine the benefits of memorization and generalization for recommender systems".
