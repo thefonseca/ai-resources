@@ -64,6 +64,9 @@ This repository is my "reading list", a collection of interesting papers, course
 
 <a name="blogs" />
 ## Websites & Blog Posts
+
+* [Montreal Institute for Learning Algorithms](https://mila.umontreal.ca/en/publications/) - MILA research publications.
+
 * [Shakir's Machine Learning Blog](http://blog.shakirm.com) - Shakir is a senior research scientist at Google DeepMind in London.
 
 * [A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html) - A very nice, simple and mostly visual explanation of the universality theorem, by Michael Nielsen.
