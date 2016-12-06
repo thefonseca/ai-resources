@@ -9,6 +9,7 @@ This repository is my "reading list", a collection of interesting papers, course
   - [Computational Cognitive Science](#cognitive-science)
   - [Computer Vision](#computer-vision)
   - [Deep Learning](#deep-learning)
+  - [Hierarchical Temporal Memory](#htm)
   - [Self-Driving Cars](#sdc)
 - [Websites & Blog posts](#blogs)
 - [Videos](#videos)
@@ -51,6 +52,15 @@ This repository is my "reading list", a collection of interesting papers, course
 * [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis) (2015) - "Progress in the field will be further accelerated by the development of better tools for visualizing and interpreting neural nets. We introduce two such tools here. The first is a tool that visualizes the activations produced on each layer of a trained convnet as it processes an image or video. (...) The second tool enables visualizing features at each layer of a DNN via regularized optimization in image space".
 
 * [Wide & Deep Learning for Recommender Systems](http://arxiv.org/abs/1606.07792) - "In this paper, we present Wide & Deep learning - jointly trained wide linear models and deep neural networks - to combine the benefits of memorization and generalization for recommender systems".
+
+<a name="htm" />
+### Hierarchical Temporal Memory
+
+* [Properties of Sparse Distributed Representations and their Application to Hierarchical Temporal Memory](https://arxiv.org/abs/1503.07469) - "Empirical evidence demonstrates that every region of the neocortex represents information using sparse activity patterns. This paper examines Sparse Distributed Representations (SDRs), the primary information representation strategy in Hierarchical Temporal Memory (HTM) systems and the neocortex".
+
+* [HTM Whitepaper](http://numenta.com/assets/pdf/whitepapers/hierarchical-temporal-memory-cortical-learning-algorithm-0.2.1-en.pdf) - "Hierarchical Temporal Memory (HTM) is a technology modeled on how the neocortex performs these functions. HTM offers the promise of building machines that approach or exceed human-level performance for many cognitive tasks".
+
+* [Biological and Machine Intelligence (BAMI)](http://numenta.com/biological-and-machine-intelligence/) - "Biological and Machine Intelligence (BAMI) is a living book authored by Numenta researchers and engineers. Its purpose is to document Hierarchical Temporal Memory, a theoretical framework for both biological and machine intelligence".
 
 <a name="sdc" />
 ### Self-Driving Cars
