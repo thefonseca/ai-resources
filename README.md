@@ -75,6 +75,8 @@ This repository is my "reading list", a collection of interesting papers, course
 <a name="blogs" />
 ## Websites & Blog Posts
 
+* [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum) - "This open-source Deep Learning curriculum is meant to be a starting point for everyone interested in seriously studying the field".
+
 * [Montreal Institute for Learning Algorithms](https://mila.umontreal.ca/en/publications/) - MILA research publications.
 
 * [Shakir's Machine Learning Blog](http://blog.shakirm.com) - Shakir is a senior research scientist at Google DeepMind in London.
