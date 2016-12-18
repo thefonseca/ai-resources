@@ -75,6 +75,8 @@ This repository is my "reading list", a collection of interesting papers, course
 <a name="blogs" />
 ## Websites & Blog Posts
 
+* [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/) - Deep Reinforcement Learning course by Sergey Levine, John Schulman, Chelsea Finn.
+
 * [Open Source Deep Learning Curriculum](http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum) - "This open-source Deep Learning curriculum is meant to be a starting point for everyone interested in seriously studying the field".
 
 * [Montreal Institute for Learning Algorithms](https://mila.umontreal.ca/en/publications/) - MILA research publications.
