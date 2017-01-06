@@ -29,8 +29,6 @@ This repository is my "reading list", a collection of interesting papers, course
 
 <a name="computer-vision" />
 ### Computer Vision
-* [Learning What and Where to Draw](http://www.scottreed.info/files/nips2016.pdf) (2016) - "We propose a new model, the Generative Adversarial What-Where Network (GAWWN), that synthesizes images given instructions describing what content to draw in which location".
- 
 * [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](https://arxiv.org/abs/1310.1531) - "We evaluate whether features extracted from the activation of a deep convolutional network trained in a fully supervised fashion on a large, fixed set of object recognition tasks can be repurposed to novel generic tasks".
 
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) (2015) - "Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously".
@@ -59,7 +57,6 @@ This repository is my "reading list", a collection of interesting papers, course
 
 <a name="htm" />
 ### Hierarchical Temporal Memory
-
 * [Properties of Sparse Distributed Representations and their Application to Hierarchical Temporal Memory](https://arxiv.org/abs/1503.07469) - "Empirical evidence demonstrates that every region of the neocortex represents information using sparse activity patterns. This paper examines Sparse Distributed Representations (SDRs), the primary information representation strategy in Hierarchical Temporal Memory (HTM) systems and the neocortex".
 
 * [HTM Whitepaper](http://numenta.com/assets/pdf/whitepapers/hierarchical-temporal-memory-cortical-learning-algorithm-0.2.1-en.pdf) - "Hierarchical Temporal Memory (HTM) is a technology modeled on how the neocortex performs these functions. HTM offers the promise of building machines that approach or exceed human-level performance for many cognitive tasks".
@@ -72,6 +69,8 @@ This repository is my "reading list", a collection of interesting papers, course
 
 <a name="generative-models" />
 ### Generative Models
+* [Learning What and Where to Draw](http://www.scottreed.info/files/nips2016.pdf) (2016) - "We propose a new model, the Generative Adversarial What-Where Network (GAWWN), that synthesizes images given instructions describing what content to draw in which location".
+
 * [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) (2014) - "We propose a new framework for estimating generative models via an adversarial process, in which we simultaneously train two models: a generative model G that captures the data distribution, and a discriminative model D that estimates the probability that a sample came from the training data rather than G".
 
 <a name="sdc" />
