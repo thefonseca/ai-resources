@@ -10,6 +10,7 @@ This repository is my "reading list", a collection of interesting papers, course
   - [Computer Vision](#computer-vision)
   - [Deep Learning](#deep-learning)
   - [Hierarchical Temporal Memory](#htm)
+  - [Generative Models](#generative-models)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Self-Driving Cars](#sdc)
 - [Websites & Blog posts](#blogs)
@@ -68,6 +69,10 @@ This repository is my "reading list", a collection of interesting papers, course
 <a name="reinforcement-learning" />
 ### Reinforcement Learning
 * [Human-Level Control through Deep Reinforcement Learning](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf) (2015) - "Here we use recent advances in training deep neural networks to develop a novel artificial agent, termed a deep Q-network, that can learn successful policies directly from high-dimensional sensory inputs using end-to-end reinforcement learning. We tested this agent on the challenging domain of classic Atari 2600 games".
+
+<a name="generative-models" />
+### Generative Models
+* [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) (2014) - "We propose a new framework for estimating generative models via an adversarial process, in which we simultaneously train two models: a generative model G that captures the data distribution, and a discriminative model D that estimates the probability that a sample came from the training data rather than G".
 
 <a name="sdc" />
 ### Self-Driving Cars
