@@ -69,7 +69,15 @@ This repository is my "reading list", a collection of interesting papers, course
 
 <a name="generative-models" />
 ### Generative Models
+* [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160) (2016) - "This report summarizes the tutorial presented by the author at NIPS 2016 on generative adversarial networks (GANs)".
+
+* [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498) (2016) - "We present a variety of new architectural features and training procedures that we apply to the generative adversarial networks (GANs) framework. We focus on two applications of GANs: semi-supervised learning, and the generation of images that humans find visually realistic".
+
 * [Learning What and Where to Draw](http://www.scottreed.info/files/nips2016.pdf) (2016) - "We propose a new model, the Generative Adversarial What-Where Network (GAWWN), that synthesizes images given instructions describing what content to draw in which location".
+
+* [Generating images with recurrent adversarial networks](https://arxiv.org/abs/1602.05110) (2016) - "Gatys et al. (2015) showed that optimizing pixels to match features in a convolutional network with respect reference image features is a way to render images of high visual quality. We show that unrolling this gradient-based optimization yields a recurrent computation that creates images by incrementally adding onto a visual "canvas"".
+
+* [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623) (2015) - "This paper introduces the Deep Recurrent Attentive Writer (DRAW) neural network architecture for image generation. DRAW networks combine a novel spatial attention mechanism that mimics the foveation of the human eye, with a sequential variational auto-encoding framework that allows for the iterative construction of complex images".
 
 * [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) (2014) - "We propose a new framework for estimating generative models via an adversarial process, in which we simultaneously train two models: a generative model G that captures the data distribution, and a discriminative model D that estimates the probability that a sample came from the training data rather than G".
 
