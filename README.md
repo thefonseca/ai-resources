@@ -71,6 +71,8 @@ This repository is my "reading list", a collection of interesting papers, course
 ### Generative Models
 * [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160) (2016) - "This report summarizes the tutorial presented by the author at NIPS 2016 on generative adversarial networks (GANs)".
 
+* [One-Shot Generalization in Deep Generative Models](https://arxiv.org/abs/1603.05106) (2016) - "We develop machine learning systems with this important capacity by developing new deep generative models, models that combine the representational power of deep learning with the inferential power of Bayesian reasoning. We develop a class of sequential generative models that are built on the principles of feedback and attention".
+
 * [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498) (2016) - "We present a variety of new architectural features and training procedures that we apply to the generative adversarial networks (GANs) framework. We focus on two applications of GANs: semi-supervised learning, and the generation of images that humans find visually realistic".
 
 * [Learning What and Where to Draw](http://www.scottreed.info/files/nips2016.pdf) (2016) - "We propose a new model, the Generative Adversarial What-Where Network (GAWWN), that synthesizes images given instructions describing what content to draw in which location".
