@@ -71,6 +71,8 @@ This repository is my "reading list", a collection of interesting papers, course
 ### Generative Models
 * [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160) (2016) - "This report summarizes the tutorial presented by the author at NIPS 2016 on generative adversarial networks (GANs)".
 
+* [Deep multi-scale video prediction beyond mean square error](https://arxiv.org/abs/1511.05440) (2016) - "In this work, we train a convolutional network to generate future frames given an input sequence. To deal with the inherently blurry predictions obtained from the standard Mean Squared Error (MSE) loss function, we propose three different and complementary feature learning strategies: a multi-scale architecture, an adversarial training method, and an image gradient difference loss function".
+
 * [One-Shot Generalization in Deep Generative Models](https://arxiv.org/abs/1603.05106) (2016) - "We develop machine learning systems with this important capacity by developing new deep generative models, models that combine the representational power of deep learning with the inferential power of Bayesian reasoning. We develop a class of sequential generative models that are built on the principles of feedback and attention".
 
 * [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498) (2016) - "We present a variety of new architectural features and training procedures that we apply to the generative adversarial networks (GANs) framework. We focus on two applications of GANs: semi-supervised learning, and the generation of images that humans find visually realistic".
