@@ -19,7 +19,6 @@ This repository is my "reading list", a collection of interesting papers, course
 <!-- /MarkdownTOC -->
 
 
-<a name="papers" />
 ## Papers
 <a name="cognitive-science" />
 ### Computational Cognitive Science
