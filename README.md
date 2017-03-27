@@ -6,27 +6,26 @@ This repository is my "reading list", a collection of interesting papers, course
 
 <!-- MarkdownTOC depth=4 -->
 - [Papers](#papers)
-  - [Computational Cognitive Science](#cognitive-science)
+  - [Computational Cognitive Science](#computational-cognitive-science)
   - [Computer Vision](#computer-vision)
   - [Deep Learning](#deep-learning)
-  - [Hierarchical Temporal Memory](#htm)
+  - [Hierarchical Temporal Memory](#hierarchical-temporal-memory)
   - [Generative Models](#generative-models)
   - [Reinforcement Learning](#reinforcement-learning)
-  - [Self-Driving Cars](#sdc)
-- [Websites & Blog posts](#blogs)
+  - [Self-Driving Cars](#self-driving-cars)
+- [Websites](#websites)
 - [Videos](#videos)
 
 <!-- /MarkdownTOC -->
 
 
 ## Papers
-<a name="cognitive-science" />
+
 ### Computational Cognitive Science
 * [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) (2016) -  One one my favorite papers. Discusses the elements of human cognitition that are still missing in current Deep Learning and Reinforcement Learning approaches.
 
 * [Human-level concept learning through probabilistic program induction](http://web.mit.edu/cocosci/Papers/Science-2015-Lake-1332-8.pdf) -  A different approach to learning concepts from few data, like humans do.
 
-<a name="computer-vision" />
 ### Computer Vision
 * [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](https://arxiv.org/abs/1310.1531) - "We evaluate whether features extracted from the activation of a deep convolutional network trained in a fully supervised fashion on a large, fixed set of object recognition tasks can be repurposed to novel generic tasks".
 
@@ -36,7 +35,6 @@ This repository is my "reading list", a collection of interesting papers, course
 
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-) (2012) - "We trained a large, deep convolutional neural network to classify the 1.3 million high-resolution images in the LSVRC-2010 ImageNet training set into the 1000 different classes".
 
-<a name="deep-learning" />
 ### Deep Learning
 * [Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225) (2016) - "HWe show how the success of deep learning depends not only on mathematics but also on physics: although well-known mathematical theorems guarantee that neural networks can approximate arbitrary functions well, the class of functions of practical interest can be approximated through "cheap learning" with exponentially fewer parameters than generic ones, because they have simplifying properties tracing back to the laws of physics".
 
@@ -54,7 +52,6 @@ This repository is my "reading list", a collection of interesting papers, course
 
 * [Wide & Deep Learning for Recommender Systems](http://arxiv.org/abs/1606.07792) - "In this paper, we present Wide & Deep learning - jointly trained wide linear models and deep neural networks - to combine the benefits of memorization and generalization for recommender systems".
 
-<a name="htm" />
 ### Hierarchical Temporal Memory
 * [Properties of Sparse Distributed Representations and their Application to Hierarchical Temporal Memory](https://arxiv.org/abs/1503.07469) - "Empirical evidence demonstrates that every region of the neocortex represents information using sparse activity patterns. This paper examines Sparse Distributed Representations (SDRs), the primary information representation strategy in Hierarchical Temporal Memory (HTM) systems and the neocortex".
 
@@ -84,7 +81,6 @@ This repository is my "reading list", a collection of interesting papers, course
 
 * [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) (2014) - "We propose a new framework for estimating generative models via an adversarial process, in which we simultaneously train two models: a generative model G that captures the data distribution, and a discriminative model D that estimates the probability that a sample came from the training data rather than G".
 
-<a name="sdc" />
 ### Self-Driving Cars
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) (2016) - "We trained a convolutional neural network (CNN) to map raw pixels from a single front-facing camera directly to steering commands".
 
@@ -94,8 +90,7 @@ This repository is my "reading list", a collection of interesting papers, course
 
 * [An Empirical Evaluation of Deep Learning on Highway Driving](https://arxiv.org/abs/1504.01716) (2015) - "In this paper, we presented a number of empirical evaluations of recent deep learning advances".
 
-<a name="blogs" />
-## Websites & Blog Posts
+## Websites
 
 * [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/) - Deep Reinforcement Learning course by Sergey Levine, John Schulman, Chelsea Finn.
 
@@ -112,7 +107,6 @@ This repository is my "reading list", a collection of interesting papers, course
 ### Computer Vision
 * [Who is the best in dataset X?](http://rodrigob.github.io/are_we_there_yet/build/) - A collection of the best performing classification methods in datasets like MNIST and CIFAR-10.
 
-<a name="videos" />
 ## Videos
 * [Bay Area Deep Learning School - Day 1](https://www.youtube.com/watch?v=eyovmAtoUx0) (2016) - Day 1 of Bay Area Deep Learning School featuring speakers Hugo Larochelle, Andrej Karpathy, Richard Socher, Sherry Moore, Ruslan Salakhutdinov and Andrew Ng. Detailed schedule is at http://www.bayareadlschool.org/schedule.
 
