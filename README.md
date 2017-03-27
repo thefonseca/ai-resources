@@ -66,7 +66,6 @@ This repository is my "reading list", a collection of interesting papers, course
 ### Reinforcement Learning
 * [Human-Level Control through Deep Reinforcement Learning](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf) (2015) - "Here we use recent advances in training deep neural networks to develop a novel artificial agent, termed a deep Q-network, that can learn successful policies directly from high-dimensional sensory inputs using end-to-end reinforcement learning. We tested this agent on the challenging domain of classic Atari 2600 games".
 
-<a name="generative-models" />
 ### Generative Models
 * [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160) (2016) - "This report summarizes the tutorial presented by the author at NIPS 2016 on generative adversarial networks (GANs)".
 
