@@ -9,6 +9,7 @@ This repository is my "reading list", a collection of interesting papers, course
   - [Computational Cognitive Science](#computational-cognitive-science)
   - [Computer Vision](#computer-vision)
   - [Deep Learning](#deep-learning)
+  - [Evolution Strategies](#evolution-strategies)
   - [Hierarchical Temporal Memory](#hierarchical-temporal-memory)
   - [Generative Models](#generative-models)
   - [Reinforcement Learning](#reinforcement-learning)
@@ -36,7 +37,7 @@ This repository is my "reading list", a collection of interesting papers, course
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-) (2012) - "We trained a large, deep convolutional neural network to classify the 1.3 million high-resolution images in the LSVRC-2010 ImageNet training set into the 1000 different classes".
 
 ### Deep Learning
-* [Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225) (2016) - "HWe show how the success of deep learning depends not only on mathematics but also on physics: although well-known mathematical theorems guarantee that neural networks can approximate arbitrary functions well, the class of functions of practical interest can be approximated through "cheap learning" with exponentially fewer parameters than generic ones, because they have simplifying properties tracing back to the laws of physics".
+* [Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225) (2016) - "We show how the success of deep learning depends not only on mathematics but also on physics: although well-known mathematical theorems guarantee that neural networks can approximate arbitrary functions well, the class of functions of practical interest can be approximated through "cheap learning" with exponentially fewer parameters than generic ones, because they have simplifying properties tracing back to the laws of physics".
 
 * [One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065) (2016) - "Here, we demonstrate the ability of a memory-augmented neural network to rapidly assimilate new data, and leverage this data to make accurate predictions after only a few samples. We also introduce a new method for accessing an external memory that focuses on memory content, unlike previous methods that additionally use memory location-based focusing mechanisms".
 
@@ -51,6 +52,9 @@ This repository is my "reading list", a collection of interesting papers, course
 * [Neural Turing Machines](https://arxiv.org/abs/1410.5401) (2014) - "We extend the capabilities of neural networks by coupling them to external memory resources, which they can interact with by attentional processes. The combined system is analogous to a Turing Machine or Von Neumann architecture but is differentiable end-to-end, allowing it to be efficiently trained with gradient descent".
 
 * [Wide & Deep Learning for Recommender Systems](http://arxiv.org/abs/1606.07792) - "In this paper, we present Wide & Deep learning - jointly trained wide linear models and deep neural networks - to combine the benefits of memorization and generalization for recommender systems".
+
+### Evolution Strategies
+* [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864) (2017) - "We explore the use of Evolution Strategies, a class of black box optimization algorithms, as an alternative to popular RL techniques such as Q-learning and Policy Gradients. Experiments on MuJoCo and Atari show that ES is a viable solution strategy that scales extremely well with the number of CPUs available".
 
 ### Hierarchical Temporal Memory
 * [Properties of Sparse Distributed Representations and their Application to Hierarchical Temporal Memory](https://arxiv.org/abs/1503.07469) - "Empirical evidence demonstrates that every region of the neocortex represents information using sparse activity patterns. This paper examines Sparse Distributed Representations (SDRs), the primary information representation strategy in Hierarchical Temporal Memory (HTM) systems and the neocortex".
