@@ -63,7 +63,6 @@ This repository is my "reading list", a collection of interesting papers, course
 
 * [Biological and Machine Intelligence (BAMI)](http://numenta.com/biological-and-machine-intelligence/) - "Biological and Machine Intelligence (BAMI) is a living book authored by Numenta researchers and engineers. Its purpose is to document Hierarchical Temporal Memory, a theoretical framework for both biological and machine intelligence".
 
-<a name="reinforcement-learning" />
 ### Reinforcement Learning
 * [Human-Level Control through Deep Reinforcement Learning](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf) (2015) - "Here we use recent advances in training deep neural networks to develop a novel artificial agent, termed a deep Q-network, that can learn successful policies directly from high-dimensional sensory inputs using end-to-end reinforcement learning. We tested this agent on the challenging domain of classic Atari 2600 games".
 
