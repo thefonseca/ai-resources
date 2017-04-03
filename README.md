@@ -12,6 +12,7 @@ This repository is my "reading list", a collection of interesting papers, course
   - [Evolution Strategies](#evolution-strategies)
   - [Hierarchical Temporal Memory](#hierarchical-temporal-memory)
   - [Generative Models](#generative-models)
+  - [Natural Language Processing](#natural-language-processing)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Self-Driving Cars](#self-driving-cars)
 - [Websites](#websites)
@@ -63,9 +64,6 @@ This repository is my "reading list", a collection of interesting papers, course
 
 * [Biological and Machine Intelligence (BAMI)](http://numenta.com/biological-and-machine-intelligence/) - "Biological and Machine Intelligence (BAMI) is a living book authored by Numenta researchers and engineers. Its purpose is to document Hierarchical Temporal Memory, a theoretical framework for both biological and machine intelligence".
 
-### Reinforcement Learning
-* [Human-Level Control through Deep Reinforcement Learning](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf) (2015) - "Here we use recent advances in training deep neural networks to develop a novel artificial agent, termed a deep Q-network, that can learn successful policies directly from high-dimensional sensory inputs using end-to-end reinforcement learning. We tested this agent on the challenging domain of classic Atari 2600 games".
-
 ### Generative Models
 * [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160) (2016) - "This report summarizes the tutorial presented by the author at NIPS 2016 on generative adversarial networks (GANs)".
 
@@ -82,6 +80,12 @@ This repository is my "reading list", a collection of interesting papers, course
 * [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623) (2015) - "This paper introduces the Deep Recurrent Attentive Writer (DRAW) neural network architecture for image generation. DRAW networks combine a novel spatial attention mechanism that mimics the foveation of the human eye, with a sequential variational auto-encoding framework that allows for the iterative construction of complex images".
 
 * [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) (2014) - "We propose a new framework for estimating generative models via an adversarial process, in which we simultaneously train two models: a generative model G that captures the data distribution, and a discriminative model D that estimates the probability that a sample came from the training data rather than G".
+
+### Natural Language Processing
+* [Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626) (2015) - "This article offers an empirical exploration on the use of character-level convolutional networks (ConvNets) for text classification. We constructed several large-scale datasets to show that character-level convolutional networks could achieve state-of-the-art or competitive results. Comparisons are offered against traditional models such as bag of words, n-grams and their TFIDF variants, and deep learning models such as word-based ConvNets and recurrent neural networks.".
+
+### Reinforcement Learning
+* [Human-Level Control through Deep Reinforcement Learning](http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf) (2015) - "Here we use recent advances in training deep neural networks to develop a novel artificial agent, termed a deep Q-network, that can learn successful policies directly from high-dimensional sensory inputs using end-to-end reinforcement learning. We tested this agent on the challenging domain of classic Atari 2600 games".
 
 ### Self-Driving Cars
 * [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) (2016) - "We trained a convolutional neural network (CNN) to map raw pixels from a single front-facing camera directly to steering commands".
