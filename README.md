@@ -84,6 +84,8 @@ This repository is my "reading list", a collection of interesting papers, course
 ### Natural Language Processing
 * [Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/abs/1704.01444) (2017) - "We explore the properties of byte-level recurrent language models. When given sufficient amounts of capacity, training data, and compute time, the representations learned by these models include disentangled features corresponding to high-level concepts. Specifically, we find a single unit which performs sentiment analysis".
 
+* [Semi-supervised Sequence Learning](https://arxiv.org/abs/1511.01432) (2015) - "We present two approaches that use unlabeled data to improve sequence learning with recurrent networks. The first approach is to predict what comes next in a sequence, which is a conventional language model in natural language processing. The second approach is to use a sequence autoencoder, which reads the input sequence into a vector and predicts the input sequence again. These two algorithms can be used as a "pretraining" step for a later supervised sequence learning algorithm".
+
 * [Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626) (2015) - "This article offers an empirical exploration on the use of character-level convolutional networks (ConvNets) for text classification. We constructed several large-scale datasets to show that character-level convolutional networks could achieve state-of-the-art or competitive results. Comparisons are offered against traditional models such as bag of words, n-grams and their TFIDF variants, and deep learning models such as word-based ConvNets and recurrent neural networks.".
 
 ### Reinforcement Learning
