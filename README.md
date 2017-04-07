@@ -82,6 +82,8 @@ This repository is my "reading list", a collection of interesting papers, course
 * [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) (2014) - "We propose a new framework for estimating generative models via an adversarial process, in which we simultaneously train two models: a generative model G that captures the data distribution, and a discriminative model D that estimates the probability that a sample came from the training data rather than G".
 
 ### Natural Language Processing
+* [Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/abs/1704.01444) (2017) - "We explore the properties of byte-level recurrent language models. When given sufficient amounts of capacity, training data, and compute time, the representations learned by these models include disentangled features corresponding to high-level concepts. Specifically, we find a single unit which performs sentiment analysis".
+
 * [Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626) (2015) - "This article offers an empirical exploration on the use of character-level convolutional networks (ConvNets) for text classification. We constructed several large-scale datasets to show that character-level convolutional networks could achieve state-of-the-art or competitive results. Comparisons are offered against traditional models such as bag of words, n-grams and their TFIDF variants, and deep learning models such as word-based ConvNets and recurrent neural networks.".
 
 ### Reinforcement Learning
