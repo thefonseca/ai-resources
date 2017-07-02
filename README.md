@@ -37,6 +37,9 @@ This repository is my "reading list", a collection of interesting papers, course
 
 * [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-) (2012) - "We trained a large, deep convolutional neural network to classify the 1.3 million high-resolution images in the LSVRC-2010 ImageNet training set into the 1000 different classes".
 
+### Cross-modal learning
+* [See, Hear, and Read: Deep Aligned Representations](http://people.csail.mit.edu/yusuf/see-hear-read/) (2017) - "We capitalize on large amounts of readily-available, synchronous data to learn a deep discriminative representations shared across three major natural modalities: vision, sound and language. By leveraging over a year of sound from video and millions of sentences paired with images, we jointly train a deep convolutional network for aligned representation learning."
+
 ### Deep Learning
 * [Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225) (2016) - "We show how the success of deep learning depends not only on mathematics but also on physics: although well-known mathematical theorems guarantee that neural networks can approximate arbitrary functions well, the class of functions of practical interest can be approximated through "cheap learning" with exponentially fewer parameters than generic ones, because they have simplifying properties tracing back to the laws of physics".
 
