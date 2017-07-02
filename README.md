@@ -41,6 +41,8 @@ This repository is my "reading list", a collection of interesting papers, course
 ### Cross-modal learning
 * [See, Hear, and Read: Deep Aligned Representations](http://people.csail.mit.edu/yusuf/see-hear-read/) (2017) - "We capitalize on large amounts of readily-available, synchronous data to learn a deep discriminative representations shared across three major natural modalities: vision, sound and language. By leveraging over a year of sound from video and millions of sentences paired with images, we jointly train a deep convolutional network for aligned representation learning."
 
+* [One Model To Learn Them All](https://arxiv.org/abs/1706.05137) (2017) - "We present a single model that yields good results on a number of problems spanning multiple domains. In particular, this single model is trained concurrently on ImageNet, multiple translation tasks, image captioning (COCO dataset), a speech recognition corpus, and an English parsing task."
+
 ### Deep Learning
 * [Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225) (2016) - "We show how the success of deep learning depends not only on mathematics but also on physics: although well-known mathematical theorems guarantee that neural networks can approximate arbitrary functions well, the class of functions of practical interest can be approximated through "cheap learning" with exponentially fewer parameters than generic ones, because they have simplifying properties tracing back to the laws of physics".
 
