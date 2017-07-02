@@ -8,6 +8,7 @@ This repository is my "reading list", a collection of interesting papers, course
 - [Papers](#papers)
   - [Computational Cognitive Science](#computational-cognitive-science)
   - [Computer Vision](#computer-vision)
+  - [Cross-modal Learning](#cross-modal-learning)
   - [Deep Learning](#deep-learning)
   - [Evolution Strategies](#evolution-strategies)
   - [Hierarchical Temporal Memory](#hierarchical-temporal-memory)
